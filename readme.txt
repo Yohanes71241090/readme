@@ -4,4 +4,5 @@ hello world
 
 nanti ada assement
 
-saya mau belajar git dengan baik dan benar semangat :)
+Modified
+Modified adalah kondisi dimana revisi atau perubahan sudah dilakukan, tetapi belum ditandai dan belum disimpan di version control. Contohnya pada gambar di atas, ada tiga file HTML yang dalam kondisi modified.
