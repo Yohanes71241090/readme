@@ -1,0 +1,26 @@
+#include <stdio.h>
+
+int main(){
+    
+    int tinggi_piramida,i,j,k;
+    
+    printf("Tinggi Piramida: ");
+    scanf("%d",&tinggi_piramida);
+
+    printf("\n");
+
+    for(i = 1; i <= tinggi_piramida; i++ ){
+        for(j = tinggi_piramida; j > i; j-- ){
+            printf(" ");
+        }
+        for(k = 1; k <= i; k++){
+            printf("#");
+        }
+        printf("\n");
+    }
+    return 0;
+    }
+
+
+
+
